@@ -18,7 +18,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>main.service.example.Solution</mainClass>
+              <mainClass>main.java.com.App</mainClass>
             </manifest>
           </archive>
         </configuration>
