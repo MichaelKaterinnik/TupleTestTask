@@ -1,12 +1,14 @@
-package main.service.example;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Solution {
-    public static void main(String[] args) {
+/**
+
+ */
+public class App {
+    public static void main( String[] args )
+    {
         List<String> inputLines = new ArrayList<>();
         List<String> outputLines;
 
